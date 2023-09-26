@@ -53,5 +53,8 @@ Before you begin, ensure you have met the following requirements:
 
 ## ScreenShots
 ![image](https://github.com/AhmedYasser20/NewsApp/assets/93765400/cb48dbc7-c6ab-4c8b-a587-e6ed693f2888)
+---
 ![image](https://github.com/AhmedYasser20/NewsApp/assets/93765400/574ae6ed-aa04-43ef-bbbb-97431e2a8398)
+---
 ![image](https://github.com/AhmedYasser20/NewsApp/assets/93765400/f78411cb-4f1e-4c4c-bf07-5c02d21dd438)
+---
